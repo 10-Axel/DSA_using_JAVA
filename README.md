@@ -207,8 +207,8 @@ public class Main {
 # Usage
 Clone the repository and navigate to the desired directory to run the examples:
 ```
-git clone https://github.com/yourusername/DSA-using-Java.git
-cd DSA-using-Java
+git clone https://github.com/yourusername/DSA_using_JAVA.git
+cd DSA_using_Java
 javac filename.java
 java filename
 ```
